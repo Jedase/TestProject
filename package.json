@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "cypress": "cypress open",
+    "cy:open": "CYPRESS_REMOTE_DEBUGGING_PORT=9222 cypress open"
+  },
+  "name": "secretum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.5.1",
+    "cypress-metamask": "^1.0.5-development"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
