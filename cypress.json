@@ -1,4 +1,6 @@
 {
   "viewportWidth": 1035,
-  "viewportHeight": 900
+  "viewportHeight": 900,
+  "waitForAnimations": false,
+  "animationDistanceThreshold": 8000
 }
